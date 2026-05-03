@@ -21,6 +21,6 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='producto',
             name='fabricante',
-            field=models.ForeignKey(default="", on_delete=django.db.models.deletion.CASCADE, null=True, blank=True, to='productos_del_proyecto.fabricante'),
+            field=models.ForeignKey(default="", on_delete=django.db.models.deletion.CASCADE, null=True, blank=True, sto='productos_del_proyecto.fabricante'),
         ),
     ]

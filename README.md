@@ -42,4 +42,4 @@ Aplicación integradora que pone a prueba los conocimientos adquiridos.
    ```
 
 ---
-*Desarrollado con ❤️ por Rubén Schnettler*
+*Desarrollado por Rubén Schnettler.*
